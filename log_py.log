@@ -1,0 +1,14 @@
+INFO:root:namefile=  extension= idea flag= False parentcatalog= GB
+namefile= main extension= py flag= False parentcatalog= GB
+namefile= mainAtt extension= py flag= False parentcatalog= GB
+namefile= py_log extension= log flag= False parentcatalog= GB
+
+INFO:root:namefile=  extension= git flag= False parentcatalog= GB
+namefile= 123 extension= png flag= False parentcatalog= GB
+namefile= index extension= html flag= False parentcatalog= GB
+namefile= Рисунок1 extension= png flag= False parentcatalog= GB
+
+INFO:root:namefile= gram extension= csv flag= False parentcatalog= D:
+
+INFO:root:namefile= install extension= log flag= False parentcatalog= D:
+
